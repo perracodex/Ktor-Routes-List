@@ -1,5 +1,5 @@
 # Ktor-Routes-List
-[Example](https://github.com/perracolabs/Ktor-Routes-List/blob/main/RouteCollector.kt) showing how to dump all registered routes in Ktor, including the corresponding HTTP method and path parameters.
+A [RouteCollector](https://github.com/perracolabs/Ktor-Routes-List/blob/main/RouteCollector.kt) example showing how to dump all registered routes in Ktor, including the corresponding HTTP method and path parameters.
 
 
 Usage:
