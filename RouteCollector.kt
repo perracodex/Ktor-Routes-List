@@ -4,7 +4,7 @@
  * For a copy, see <https://opensource.org/licenses/MIT>
  */
 
-package com.perracolabs.utils
+package com.perraco.utils
 
 import io.ktor.server.application.*
 import io.ktor.server.routing.*
